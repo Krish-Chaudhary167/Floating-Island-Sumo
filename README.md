@@ -16,7 +16,7 @@
 ---
 
 ## How to Play
-1. **Move:** Use **WASD** or arrow keys to navigate your ball.
+1. **Move:** Use **WASD** keys to navigate your ball.
 2. **Objective:** Push all enemies off the island.
 3. **Use Power-ups:** Collect items to boost your strength temporarily.
 4. **Survive:** Each wave gets harder—don’t fall!
